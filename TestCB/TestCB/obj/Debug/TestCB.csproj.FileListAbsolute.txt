@@ -1,0 +1,10 @@
+c:\users\kirill\documents\visual studio 2017\Projects\TestCB\TestCB\obj\Debug\TestCB.Form1.resources
+c:\users\kirill\documents\visual studio 2017\Projects\TestCB\TestCB\obj\Debug\TestCB.Properties.Resources.resources
+c:\users\kirill\documents\visual studio 2017\Projects\TestCB\TestCB\obj\Debug\TestCB.csproj.GenerateResource.Cache
+c:\users\kirill\documents\visual studio 2017\Projects\TestCB\TestCB\obj\Debug\TestCB.csproj.CoreCompileInputs.cache
+c:\users\kirill\documents\visual studio 2017\Projects\TestCB\TestCB\bin\Debug\TestCB.exe.config
+c:\users\kirill\documents\visual studio 2017\Projects\TestCB\TestCB\bin\Debug\TestCB.exe
+c:\users\kirill\documents\visual studio 2017\Projects\TestCB\TestCB\bin\Debug\TestCB.pdb
+c:\users\kirill\documents\visual studio 2017\Projects\TestCB\TestCB\obj\Debug\TestCB.exe
+c:\users\kirill\documents\visual studio 2017\Projects\TestCB\TestCB\obj\Debug\TestCB.pdb
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestCB\TestCB\obj\Debug\TestCB.csprojResolveAssemblyReference.cache

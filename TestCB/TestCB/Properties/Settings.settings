@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TestCB.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PathToDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Kirill\Downloads\DevTest\tk_spr3193</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Provider=Microsoft.Jet.OLEDB.4.0; Extended Properties=dBASE IV;User ID=Admin;Password=; Data Source="</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
